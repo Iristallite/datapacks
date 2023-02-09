@@ -4,6 +4,6 @@
     "item": "minecraft:copper_block"
   },
   "result": "minecraft:exposed_copper",
-  "experience": 0,
+  "experience": 1.0,
   "cookingtime": 200
 }

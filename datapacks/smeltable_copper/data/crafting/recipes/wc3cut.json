@@ -4,6 +4,6 @@
     "item": "minecraft:waxed_weathered_cut_copper"
   },
   "result": "minecraft:waxed_oxidized_cut_copper",
-  "experience": 0,
+  "experience": 1.0,
   "cookingtime": 200
 }

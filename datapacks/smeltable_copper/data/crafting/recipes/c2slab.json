@@ -4,6 +4,6 @@
     "item": "minecraft:exposed_cut_copper_slab"
   },
   "result": "minecraft:weathered_cut_copper_slab",
-  "experience": 0,
+  "experience": 1.0,
   "cookingtime": 200
 }

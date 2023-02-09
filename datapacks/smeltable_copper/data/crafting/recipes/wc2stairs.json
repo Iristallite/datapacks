@@ -4,6 +4,6 @@
     "item": "minecraft:waxed_exposed_cut_copper_stairs"
   },
   "result": "minecraft:waxed_weathered_cut_copper_stairs",
-  "experience": 0,
+  "experience": 1.0,
   "cookingtime": 200
 }

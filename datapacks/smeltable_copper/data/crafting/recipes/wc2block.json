@@ -4,6 +4,6 @@
     "item": "minecraft:waxed_exposed_copper"
   },
   "result": "minecraft:waxed_weathered_copper",
-  "experience": 0,
+  "experience": 1.0,
   "cookingtime": 200
 }
