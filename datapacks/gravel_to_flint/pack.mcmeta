@@ -1,1 +1,6 @@
-{"pack":{"pack_format":9,"description":"Smelt Gravel to get Flint."}}
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Smelt Gravel to get Flint."
+  }
+}

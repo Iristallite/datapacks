@@ -1,1 +1,6 @@
-{"pack":{"pack_format":9,"description":"Because why cut 4 Copper Blocks at a time when you could cut 1 Copper Block at a time?"}}
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Because why cut 4 Copper Blocks at a time when you could cut 1 Copper Block at a time?"
+  }
+}
