@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:waxed_exposed_cut_copper"
+  },
+  "result": "minecraft:waxed_weathered_cut_copper",
+  "experience": 0,
+  "cookingtime": 200
+}

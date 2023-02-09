@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:weathered_copper"
+  },
+  "result": "minecraft:oxidized_copper",
+  "experience": 0,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:waxed_copper_block"
+  },
+  "result": "minecraft:waxed_exposed_copper",
+  "experience": 0,
+  "cookingtime": 200
+}
